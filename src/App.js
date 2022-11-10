@@ -4,6 +4,7 @@ import Home from "./component/Home";
 import Add from "./component/Add";
 import AddStudent from "./component/addStudent";
 
+
 function App() {
   return (
     <div>

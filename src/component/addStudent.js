@@ -181,7 +181,6 @@ function AddStudent() {
   return (
     <Container>
       <Header />
-
       <Box marginX={4}>
         <Grid container spacing={2}>
           <Grid xs={3}></Grid>
